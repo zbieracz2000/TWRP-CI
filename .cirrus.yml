@@ -1,7 +1,6 @@
 env:
     # OrangeFox Sync Repository
-    FOX_SYNC: https://gitlab.com/zbieracz2000/sync.git
-
+    FOX_SYNC: github.com/PitchBlackRecoveryProject/manifest_pb.git
     # Config
     CONFIG: config.sh
 
