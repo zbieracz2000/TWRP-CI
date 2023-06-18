@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/zbieracz2000/android_sony_kitakami_twrp.git -b sumire"
+export FOX_BRANCH="fox_7.1"
+export DT_LINK="https://github.com/ACherepkov1989/android_sony_kitakami_twrp.git -b sumire"
 
 export DEVICE="sumire"
 export OEM="sony"
