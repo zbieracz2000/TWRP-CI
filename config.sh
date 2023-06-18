@@ -27,7 +27,10 @@ export EXTRA_CMD="export OF_MAINTAINER=zbieracz2000"
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
 export OF_USE_LATEST_MAGISK=true
-
+export ALLOW_MISSING_DEPENDENCIES=true
+export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
+export LC_ALL="C"
+export OF_LEGACY_SHAR512=1
 # Not Recommended to Change
 export SYNC_PATH="$HOME/work" # Full (absolute) path.
 export USE_CCACHE=1
