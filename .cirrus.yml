@@ -1,6 +1,6 @@
 env:
     # OrangeFox Sync Repository
-    FOX_SYNC: https://github.com/OrangeFoxRecovery/fox-6.0_manifest.git
+    FOX_SYNC: https://gitlab.com/zbieracz2000/sync.git
 
     # Config
     CONFIG: config.sh
